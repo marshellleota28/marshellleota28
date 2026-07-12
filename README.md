@@ -194,25 +194,54 @@ Research project focused on improving tomato leaf disease segmentation using CBA
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
-🎨 **Behance**
+<p align="center">
+  <a href="https://www.behance.net/marshellleota">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
 
-https://www.behance.net/marshellleota
+  <a href="https://www.linkedin.com/in/marshell-leota-timang-a60a6a263">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-💼 **LinkedIn**
+  <a href="https://www.instagram.com/leonnmarzz__28">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-www.linkedin.com/in/marshell-leota-timang-a60a6a263
+<p align="center">
+
+🎨 <strong>Behance</strong><br>
+<a href="https://www.behance.net/marshellleota">behance.net/marshellleota</a>
+
+<br><br>
+
+💼 <strong>LinkedIn</strong><br>
+<a href="https://www.linkedin.com/in/marshell-leota-timang-a60a6a263">linkedin.com/in/marshell-leota-timang-a60a6a263</a>
+
+<br><br>
+
+📸 <strong>Instagram</strong><br>
+<a href="https://www.instagram.com/leonnmarzz__28">@leonnmarzz__28</a>
+
+</p>
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-📧 Email: henriquez280904@gmail.com
+<p align="center">
 
-📧 Phone: 085939728850
+📧 <strong>Email</strong><br>
+<a href="mailto:henriquez280904@gmail.com">henriquez280904@gmail.com</a>
 
-🌍 Indonesia
+<br><br>
+
+🌍 <strong>Location</strong><br>
+Indonesia
+
+</p>
 
 ---
 
