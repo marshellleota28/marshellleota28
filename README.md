@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="background" src="https://github.com/user-attachments/assets/b79e43a0-f11f-4203-b014-fb973bc3bbe4" />
+
 # Hi 👋, I'm Marshell Leota Timang
 
 🎓 **Informatics Engineering Student** at **Satya Wacana Christian University (UKSW)**
@@ -8,24 +10,30 @@ I have experience developing web applications using **Laravel** and **Spring Boo
 
 ---
 
-# 🚀 Skills
+## 🚀 Skills
 
-## 💻 Technical Skills
+### 💻 Programming Languages & Frameworks
 
-- HTML & CSS
-- JavaScript
-- PHP
-- Python
-- C
-- Java
-- Linux
-- Git
-- SQL
-- Oracle Database
-- MySQL
-- MongoDB
-- Spring Boot
-- Laravel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,java,laravel,spring,mysql,mongodb,git,linux,vscode,figma&perline=8" />
+</p>
+
+<p align="center">
+  HTML • CSS • JavaScript • PHP • Python • C • Java • Laravel • Spring Boot • MySQL • MongoDB • Git • Linux • VS Code • Figma
+</p>
+
+---
+
+### 🗄️ Database Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  Oracle Database • SQL
+</p>
 
 ---
 
