@@ -1,4 +1,4 @@
-# Hi 👋, I'm Marshell Leota
+# Hi 👋, I'm Marshell Leota Timang
 
 🎓 **Informatics Engineering Student** at **Satya Wacana Christian University (UKSW)**
 
@@ -201,6 +201,7 @@ www.linkedin.com/in/marshell-leota-timang-a60a6a263
 # 📫 Contact
 
 📧 Email: henriquez280904@gmail.com
+
 📧 Phone: 085939728850
 
 🌍 Indonesia
